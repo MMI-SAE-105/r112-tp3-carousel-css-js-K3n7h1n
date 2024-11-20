@@ -22,3 +22,4 @@ if (carousel) {
     carousel.scrollBy({ left: +scrollAmount, behavior: "smooth" });;
   });
 }
+

@@ -59,3 +59,7 @@ Les marges négatives à gauche et à droite correspondent à l'espace entre le 
   width: 100%;/* Largeur de l'image à 100% - https://developer.mozilla.org/fr/docs/Web/CSS/width */
   height: auto;/* Hauteur de l'image ajustée automatiquement pour conserver les proportions - https://developer.mozilla.org/fr/docs/Web/CSS/height */
 }
+
+.carousel__link {
+  transition: color 0.3s ease; /* Transition douce pour le changement de couleur */
+}
